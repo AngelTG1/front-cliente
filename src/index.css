@@ -1,0 +1,137 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.encuesta {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+/* App.css */
+body {
+  font-family: Arial, sans-serif;
+}
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.form-group {
+  margin-bottom: 15px;
+}
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+input,
+textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+button {
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.encuesta {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+
+/* App.css */
+body {
+  font-family: Arial, sans-serif;
+}
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.form-group {
+  margin-bottom: 15px;
+}
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+input,
+textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+button {
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.encuesta {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.btn-cerrar{
+  margin-top: 10px;
+  background-color: #dc4429;
+}
+
+button{
+  font-weight: bold;
+  border-radius: 6px;
+}
+
+.header{
+  display: flex; 
+  align-items: center;
+  justify-content:  space-between;
+}
+
+.header button{
+  background-color: #f29f21;
+  box-shadow: inset;
+
+}
+
+.header button:hover{
+  margin-bottom: 5px;
+  transition: ease-in;
+  transition-duration: 220ms;
+}
+
+.btn-login{
+  width: 100%;
+}
+
+textarea{
+  width: 97%;
+}
+
+input{
+  width: 97%;
+}
+
